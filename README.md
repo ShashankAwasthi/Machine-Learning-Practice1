@@ -1,1 +1,1 @@
-# Machine-Learnig-Practice1-
+# Machine Learning Practice1
